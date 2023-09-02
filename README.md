@@ -33,3 +33,4 @@ _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` 
 ## Modificatons
 - [x] Applied digital signatures for transfers
 - [x] Used nonces to prevent replay attacks
+- [x] Add code linting
